@@ -1,4 +1,4 @@
-#  RemoteControl - G4F
+#  RemoteControl
 
 ## Funcionalidades
 
